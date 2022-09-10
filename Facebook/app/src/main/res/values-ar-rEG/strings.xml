@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">فيس بوك</string>
+    <string name="Main_btn_add">ضيف</string>
+    <string name="Main2_et_name">الاسم</string>
+    <string name="Main2_et_body">الكلام</string>
+    <string name="Main2_et_date">التاريخ</string>
+    <string name="Main2_et_followers">متابعين</string>
+    <string name="Main2_et_following">متابعون</string>
+    <string name="Main2_et_posts">بوست</string>
+    <string name="like">اعجاب</string>
+    <string name="comment">تعليق</string>
+    <string name="share">مشاركة</string>
+</resources>

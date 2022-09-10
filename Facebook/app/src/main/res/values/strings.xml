@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Facebook</string>
+    <string name="Main_btn_add">Add</string>
+    <string name="Main2_et_name">Name</string>
+    <string name="Main2_et_body">Body</string>
+    <string name="Main2_et_date">Date</string>
+    <string name="Main2_et_followers">Followers</string>
+    <string name="Main2_et_following">Following</string>
+    <string name="Main2_et_posts">Post</string>
+    <string name="Main3_btn_follow">follow</string>
+    <string name="like">Like</string>
+    <string name="comment">comment</string>
+    <string name="share">share</string>
+</resources>
